@@ -13,6 +13,7 @@ img
 }
 .loginbox
 {
+	margin-top: 30px;
 	position:absolute;
 	top:50%;
 	left:50%;
